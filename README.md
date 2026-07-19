@@ -10,3 +10,5 @@
 
 ### Day 1
 - Membuat repository pertama.
+### Day 2
+- Belajar Git Workflow
