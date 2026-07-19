@@ -13,3 +13,9 @@
 
 ### Day 2
 - Belajar Git Workflow
+
+## Day 3
+
+- Belajar Git Branch
+- Membuat Branch
+- Checkout Branch
